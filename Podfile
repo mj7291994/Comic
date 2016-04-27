@@ -1,0 +1,13 @@
+platform :ios, '8.0'
+
+pod 'AFNetworking'
+pod 'YYKit'
+pod 'MJRefresh'
+pod 'Masonry'
+pod 'BlocksKit'
+pod 'CocoaLumberjack'
+pod 'MBProgressHUD'
+pod 'TPKeyboardAvoiding'
+pod 'MLTransition'
+pod 'SDWebImage'
+pod 'FMDB', '~> 2.6.2'
